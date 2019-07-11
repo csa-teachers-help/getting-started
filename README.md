@@ -30,7 +30,7 @@ There are multiple ways to use repos in the classroom.  When distributing assign
     - Students who accept the link with automatically clone the repository
         - If you provide starter "code" a README, etc. student repos will automatically populate with those files when cloned
     - A disadvantage to this is that once students accept the assignment their repo is completely separated from the starter "code" so if you update the start repo students will not see those changes
-        - A workaround for this is to mass download (via the Classroom Desktop app or a shell script) all student repos for an assignment, go into all their repos make the changes and then push all those back via a shell script [here] ( https://github.com/jfiksel/github-classroom-for-teachers )
+        - A workaround for this is to mass download (via the Classroom Desktop app or a shell script) all student repos for an assignment, go into all their repos make the changes and then push all those back via a shell script [here](https://github.com/jfiksel/github-classroom-for-teachers)
         - Once you have pushed back students can "pull" their own repo and get the updates
 - Distributing assignments (individual - public as part of an organization)
     - Create a base repo and have student fork it
