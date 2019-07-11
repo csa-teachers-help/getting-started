@@ -1,6 +1,8 @@
 # Getting Started
 > A README.md file can serve multiple purposes in a repository.  Usually, it is an explanation of what the project is, how to use the repo, do installs, etc. It is written in a markdown language which can be stylized to suit your needs.
 
+There are multiple ways to use repos in a classroom.  When distributing assignments I usually create a "starter" repo on my personal GitHub account and then use the "starter code" option within GitHub Classroom to distribute the assignment with the "starter repo" files.
+
 ### Ideas for how to use a repo for the classroom
 - A way to distribute notes/lessons
     - If the repo is public or private (to the organization) students could fork the repo and add their own notes and understandings and then do a pull request back to the base repository
