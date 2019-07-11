@@ -50,7 +50,7 @@ public static void main (String[] args) {
 ```
 - You can have students answer questions right inside the README
 - You can provide comments back to them inside the README
-    - If your comments are more code specific there are better options for that idea of which can be found in the feedback repo of the organization 
+    - If your comments are more code specific there are better options for that idea of which can be found in the [feedback repo](https://github.com/csa-teachers-help/feedback-ideas) of the organization 
 
 ## Other files to include in student repos
 
