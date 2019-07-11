@@ -19,7 +19,7 @@ There are multiple ways to use repos in the classroom.  When distributing assign
 8. Create some practice assignments via GitHub Classroom
     - Provide starter code for some of them from the repos you made in step 
 
-**Note** I usually have a "Tester" account that is added to all the organizations that was created with a separate email.  This account is invited to the organizations as a "member" just like students would be.  I use this account to see what students would see when accepting the GitHub Classroom assignments and what their repos would look like.  This account is also used for pushing back up to the student repo to see how I as the teacher would be able to access or download.  I really just mess around with the two accounts via two different web browsers to see the interaction the teacher account (one with the education discount) can have with students (members who join the organization)
+**Note** I usually have a "Tester" account that is added to all the organizations that was created with a separate email.  This account is invited to the organizations as a "member" just like students would be.  I use this account to see what students would see when accepting the GitHub Classroom assignments and what their repos would look like.  This account is also used for pushing back up to the student repo to see how I as the teacher would be able to access or download.  I really just use it for messing around with the two accounts via two different web browsers to see the interaction the teacher account (one with the education discount) can have with students (members who join the organization)
 
 ### Ideas for how to use a repo for the classroom
 - A way to distribute notes/lessons
