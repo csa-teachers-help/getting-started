@@ -1,7 +1,25 @@
 # Getting Started
 > A README.md file can serve multiple purposes in a repository.  Usually, it is an explanation of what the project is, how to use the repo, do installs, etc. It is written in a markdown language which can be stylized to suit your needs.
 
-There are multiple ways to use repos in a classroom.  When distributing assignments I usually create a "starter" repo on my personal GitHub account and then use the "starter code" option within GitHub Classroom to distribute the assignment with the "starter repo" files.
+There are multiple ways to use repos in the classroom.  When distributing assignments I usually create a "starter" repo on my personal GitHub account and then use the "starter code" option within GitHub Classroom to distribute the assignment with the "starter repo" files.
+
+## Begin
+1. Signup for a GitHub Account
+2. Request an Education Account 
+    - [GitHub Education Request Form](https://education.github.com/discount_requests/new)
+3. While waiting for approval Create Organizations that can be your courses.
+4. Sign in to GitHub Classroom and create your Classrooms
+    - [GitHub Classroom](https://classroom.github.com/)
+5. If you are approved for Educational use
+    - Make your Classroom organizations have access to private repos via the [Benefits page](https://education.github.com/benefits) by clicking Upgrade next to the names at the bottom of the page
+6. If you are not approved for Educational use
+    - You can still use GitHub classroom and everything here you will have to work with public repos only for your classroom
+7. Make your first repo on GitHub
+    - Either in the organization or your own personal account
+8. Create some practice assignments via GitHub Classroom
+    - Provide starter code for some of them from the repos you made in step 
+
+**Note** I usually have a "Tester" account that is added to all the organizations that was created with a separate email.  This account is invited to the organizations as a "member" just like students would be.  I use this account to see what students would see when accepting the GitHub Classroom assignments and what their repos would look like.  This account is also used for pushing back up to the student repo to see how I as the teacher would be able to access or download.  I really just mess around with the two accounts via two different web browsers to see the interaction the teacher account (one with the education discount) can have with students (members who join the organization)
 
 ### Ideas for how to use a repo for the classroom
 - A way to distribute notes/lessons
