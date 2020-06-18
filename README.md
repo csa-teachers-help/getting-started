@@ -1,7 +1,7 @@
 # Getting Started
 > A README.md file can serve multiple purposes in a repository.  Usually, it is an explanation of what the project is, how to use the repo, do installs, etc. It is written in a markdown language that can be stylized to suit your needs.
 
-There are multiple ways to use repos in the classroom.  When distributing assignments I usually create a "starter" repo on my personal GitHub account and then use the "starter code" option within GitHub Classroom to distribute the assignment with the "starter repo" files.
+**Special Note: If you see any changes that are needed in this file or want to add anything to this file or any file do so using a pull request.  This great video by Jake Vanderplas [simple pull request](https://www.youtube.com/watch?v=rgbCcBNZcdQ) does an excellent job of explaining how to do a pull request.  You do not need to use terminal/command line to clone the repo, create a new branch, or make the change.  All those steps can also be down through various Git GUI applications or even directly on GitHub itself, which means you would not need to "clone" down to your local machine.**
 
 ## Begin
 1. Signup for a GitHub Account
@@ -23,10 +23,9 @@ There are multiple ways to use repos in the classroom.  When distributing assign
     - You can still use GitHub classroom and everything here
     - You will have to work with public repos only for your classroom
 
-**SPECIAL NOTE**
-As of April 2020, GitHub gave unlimited private repos and collaborators on private repos to everybody with a GitHub account.  This means that when selecting the "Free" tier for an organization you may not need to apply an "extra" coupon to that organization because they used to give you the "Team" tier for discounted.  This "Team" tier was the lowest tier that offered unlimited private repos.  However, now that "Free" does the coupon may not be needed.  
+**Note: As of April 2020, GitHub gave unlimited private repos and collaborators on private repos to everybody with a GitHub account.  This means that when selecting the "Free" tier for an organization you may not need to apply an "extra" coupon to that organization because they used to give you the "Team" tier for discounted.  This "Team" tier was the lowest tier that offered unlimited private repos.  However, now that "Free" does the coupon may not be needed.**
 
-Basically what I am long-windedly saying is the steps 5 and 6 may no longer be relevant to new organizations made.  I have not tested this idea as the organization I created and are using for the upcoming 2020/2021 school year were created and coupon applied 2 days before this news and feature was released.
+**Basically what I am long-windedly saying is the steps 5 and 6 may no longer be relevant to new organizations made.  I have not tested this idea as the organization I created and are using for the upcoming 2020/2021 school year were created and coupon applied 2 days before this news and feature was released.**
 
 ### Ideas for how to use a repo for the classroom
 - A way to distribute notes/lessons
@@ -51,8 +50,6 @@ I have not done this idea personally.  I think it is an awesome idea but have no
 I have not used the GitHub Classroom Assistant, the desktop app since they updated it to include mass downloads.  I cannot speak to its ease or simplicity as I do the mass download and mass pushing through the shell script.  I do not know if the Assistant has mass pushing, I do not believe it does but could be mistaken.
 
 This is the main function I use GitHub for in the classroom.  After one or two practice assignments using a tester account, which is described in the [creating repos repo](https://github.com/csa-teachers-help/create-org-repo), it is pretty easy to use GitHub as assignment distribution.  
-
-When it comes to assignment ideas the [assignment-idea repo](https://github.com/csa-teachers-help/assig-ideas) can be a helpful start.  Please make sure to read the initial README in there about using or contributing any assignments.
 
 - Distributing assignments (individual - public as part of an organization)
     - Create a base repo and have student fork it
