@@ -4,7 +4,7 @@
 - The files will **not** all be called `README.md`, they will all be unique
 - When using one of the unique templates you should rename it to `README.md` inside your own repo
 
-### Ideas for README
+## Ideas for README
 - Use the README to explain the project details
 - Outline specific objects you want students to focus on
 - You can provide `inline` code hints to students
