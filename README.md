@@ -60,25 +60,4 @@ Working with public repos does not need to be this "confusing" if you are not us
 However, you can use GitHub Classroom to create an assignment and make all the repos public instead of private.  The process being described here is often how public project repos work on GitHub.  A disadvantage to having students have public repos is that they are all searchable through GitHub, Google, etc.  I would recommend caution of assignments being used with public repos especially if you are sharing assignments with another teacher or school.  Nothing is more disappointing when there is a great assignment but with a quick Google search you can find 30+ repos providing the answer.
 
 Private repos do not eliminate cheating or sharing of code but is limits the public availability of the code.  The steps for making the code public are more work for the student.  Most people interested in cheated might not be interested in taking these extra steps to make the code public.
-
-### Ideas for README
-- Use the README to explain the project details
-- Outline specific objects you want students to focus on
-- You can provide `inline` code hints to students
-- Provide entire code block hints with syntax highlighting
-```Java
-public static void main (String[] args) {
-
-}
-```
-- You can have students answer questions right inside the README
-- You can provide comments back to them inside the README
-    - If your comments are more code specific there are better options for that idea of which can be found in the [feedback repo](https://github.com/csa-teachers-help/feedback-ideas) of the organization 
-
-## Other files to include in student repos
-
-### Gitignore
-- `.gitignore` files are helpful is making sure you only get files you care in student repos without the potential of other file types sneaking in
-- this file is easiest to be in the root when getting started
-    - though you can have other `.gitignore` files in subdirectories depending on what needs to get ignored
     
