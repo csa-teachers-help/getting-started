@@ -1,7 +1,7 @@
 # Getting Started
 > A README.md file can serve multiple purposes in a repository.  Usually, it is an explanation of what the project is, how to use the repo, do installs, etc. It is written in a markdown language that can be stylized to suit your needs.
 
-**Special Note: If you see any changes that are needed in this file or want to add anything to this file or any file do so using a pull request.  This great video by Jake Vanderplas [simple pull request](https://www.youtube.com/watch?v=rgbCcBNZcdQ) does an excellent job of explaining how to do a pull request.  You do not need to use terminal/command line to clone the repo, create a new branch, or make the change.  All those steps can also be down through various Git GUI applications or even directly on GitHub itself, which means you would not need to "clone" down to your local machine.**
+**Special Note: If you see any changes that are needed in this file or want to add anything to this file or any file do so using a pull request.  This great video by Jake Vanderplas [simple pull request](https://www.youtube.com/watch?v=rgbCcBNZcdQ) does an excellent job of explaining how to do a pull request.  You do not need to use terminal/command line to clone the repo, create a new branch, or make the change.  All those steps can also be down through various Git GUI applications or even directly on GitHub itself, which means you would not need to "clone" down to your local machine.  Another excellent video showing off how to do this is from codebasics [pull request](https://www.youtube.com/watch?v=e3bjQX9jIBk)**
 
 ## Begin
 1. Signup for a GitHub Account
