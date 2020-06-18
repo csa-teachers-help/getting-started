@@ -4,6 +4,8 @@
 - The files will **not** all be called `README.md`, they will all be unique
 - When using one of the unique templates you should rename it to `README.md` inside your own repo
 
+My current go to template for creating new assignments is `README-template3` this is been the go to template for a little over a year now.  There are minor tweaks from where this template began, it started closer to template-2 but has morphed into its current state in the last year.
+
 ## Ideas for README
 - Use the README to explain the project details
 - Outline specific objects you want students to focus on
