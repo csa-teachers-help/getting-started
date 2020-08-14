@@ -8,8 +8,8 @@ The steps outline below are shown on in these two videos:
 - [Getting Started with Classroom](https://youtu.be/ffhvoOY2sbg) 
 - [Linking Everything Together Classroom](https://youtu.be/oCsdreoU2go)
 
-GitHub Education also has created an excellent in depth video on GitHub Classroom.
-- [GitHub Classroom Overview](https://www.youtube.com/watch?v=KXWXg68KpTY)
+GitHub also has an incredible YouTube channel with various helps and guides
+- [GitHub Training Channel](https://www.youtube.com/c/GitHubGuides/videos)
 
 1. Signup for a GitHub Account
 2. Request an Education Account 
